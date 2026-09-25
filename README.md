@@ -13,7 +13,7 @@
 ## Project Structure
 
 ```text
-RAGForge/
+RAG/
 ├── notebooks/
 │   └── 1.0_RAG_With_Own_Text.ipynb   # Step-by-step RAG tutorial
 ├── .env.example                       # Environment variables template
