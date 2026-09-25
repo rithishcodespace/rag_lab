@@ -1,6 +1,4 @@
-# RAGForge
-
-A simple Retrieval-Augmented Generation (RAG) pipeline built with Python, LangChain, and ChromaDB.
+## A simple Retrieval-Augmented Generation (RAG) pipeline built with Python, LangChain, and ChromaDB.
 
 ## Features
 
